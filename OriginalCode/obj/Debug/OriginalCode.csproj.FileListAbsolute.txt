@@ -1,0 +1,5 @@
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\OriginalCode\bin\Debug\OriginalCode.exe.config
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\OriginalCode\bin\Debug\OriginalCode.exe
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\OriginalCode\bin\Debug\OriginalCode.pdb
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\OriginalCode\obj\Debug\OriginalCode.exe
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\OriginalCode\obj\Debug\OriginalCode.pdb

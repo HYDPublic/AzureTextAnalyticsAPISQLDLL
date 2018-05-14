@@ -1,0 +1,5 @@
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPI\bin\Debug\TextAnalyticsAPI.dll
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPI\bin\Debug\TextAnalyticsAPI.pdb
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPI\obj\Debug\TextAnalyticsAPI.csprojResolveAssemblyReference.cache
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPI\obj\Debug\TextAnalyticsAPI.dll
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPI\obj\Debug\TextAnalyticsAPI.pdb

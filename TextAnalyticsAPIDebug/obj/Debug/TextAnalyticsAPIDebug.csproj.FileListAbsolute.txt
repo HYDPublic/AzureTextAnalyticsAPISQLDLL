@@ -1,0 +1,12 @@
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\obj\Debug\TextAnalyticsAPIDebug.csprojResolveAssemblyReference.cache
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\bin\Debug\TextAnalyticsAPIDebug.exe.config
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\bin\Debug\TextAnalyticsAPIDebug.exe
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\bin\Debug\TextAnalyticsAPIDebug.pdb
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\bin\Debug\TextAnalyticsAPI.dll
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\bin\Debug\TextAnalyticsAPI.pdb
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\obj\Debug\TextAnalyticsAPIDebug.exe
+C:\Users\rotesmer\OneDrive\Blogging\MrFoxSQL\Posts\TextAPI\TextAnalyticsAPI\TextAnalyticsAPIDebug\obj\Debug\TextAnalyticsAPIDebug.pdb
+C:\Users\rotesmer\Documents\@Microsoft\OneDrive\OneDrive - Microsoft\TechnicalReference\Code\C Sharp\Cognitive_TEXT_API_SQL_DLL\TextAnalyticsAPIDebug\bin\Debug\TextAnalyticsAPIDebug.exe.config
+C:\Users\rotesmer\Documents\@Microsoft\OneDrive\OneDrive - Microsoft\TechnicalReference\Code\C Sharp\Cognitive_TEXT_API_SQL_DLL\TextAnalyticsAPIDebug\obj\Debug\TextAnalyticsAPIDebug.exe
+C:\Users\rotesmer\Documents\@Microsoft\OneDrive\OneDrive - Microsoft\TechnicalReference\Code\C Sharp\Cognitive_TEXT_API_SQL_DLL\TextAnalyticsAPIDebug\obj\Debug\TextAnalyticsAPIDebug.pdb
